@@ -1,0 +1,11 @@
+﻿obs_status, obs_status.label
+"A","Adjusted"
+"B","Break in series"
+"C","Confidential"
+"E","Estimate"
+"M","Model-based extrapolation"
+"P","Provisional"
+"S","Not significant"
+"U","Unreliable"
+"R","Real value"
+"I","Imputation"
